@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\bin\Debug\netcoreapp3.1\DailyReportApp.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\bin\Debug\netcoreapp3.1\DailyReportApp.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\bin\Debug\netcoreapp3.1\DailyReportApp.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\bin\Debug\netcoreapp3.1\DailyReportApp.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\bin\Debug\netcoreapp3.1\DailyReportApp.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\bin\Debug\netcoreapp3.1\DailyReportApp.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\obj\Debug\netcoreapp3.1\DailyReportApp.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\obj\Debug\netcoreapp3.1\DailyReportApp.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\obj\Debug\netcoreapp3.1\DailyReportApp.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\obj\Debug\netcoreapp3.1\DailyReportApp.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\obj\Debug\netcoreapp3.1\DailyReportApp.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\obj\Debug\netcoreapp3.1\DailyReportApp.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DailyReportApp\DailyReportApp\obj\Debug\netcoreapp3.1\DailyReportApp.genruntimeconfig.cache
