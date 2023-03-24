@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\bin\Debug\netcoreapp3.1\MathChallenge.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MathChallenge\MathChallenge\obj\Debug\netcoreapp3.1\MathChallenge.genruntimeconfig.cache
