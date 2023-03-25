@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\bin\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\bin\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\bin\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\bin\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\bin\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\bin\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\obj\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\obj\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\obj\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\obj\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\obj\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\obj\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BoolenLogicSubmissionAssn\BoolenLogicSubmissionAssn\obj\Debug\netcoreapp3.1\BoolenLogicSubmissionAssn.genruntimeconfig.cache
