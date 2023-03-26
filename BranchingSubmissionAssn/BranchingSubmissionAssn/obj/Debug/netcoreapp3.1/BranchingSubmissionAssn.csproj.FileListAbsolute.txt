@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\bin\Debug\netcoreapp3.1\BranchingSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\bin\Debug\netcoreapp3.1\BranchingSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\bin\Debug\netcoreapp3.1\BranchingSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\bin\Debug\netcoreapp3.1\BranchingSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\bin\Debug\netcoreapp3.1\BranchingSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\bin\Debug\netcoreapp3.1\BranchingSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\obj\Debug\netcoreapp3.1\BranchingSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\obj\Debug\netcoreapp3.1\BranchingSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\obj\Debug\netcoreapp3.1\BranchingSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\obj\Debug\netcoreapp3.1\BranchingSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\obj\Debug\netcoreapp3.1\BranchingSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\obj\Debug\netcoreapp3.1\BranchingSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\BranchingSubmissionAssn\BranchingSubmissionAssn\obj\Debug\netcoreapp3.1\BranchingSubmissionAssn.genruntimeconfig.cache
