@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleAppSubmissionAssn/1.0.0": {
+        "runtime": {
+          "ConsoleAppSubmissionAssn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleAppSubmissionAssn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

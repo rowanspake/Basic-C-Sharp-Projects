@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppSubmissionAssn\ConsoleAppSubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppSubmissionAssn.genruntimeconfig.cache
