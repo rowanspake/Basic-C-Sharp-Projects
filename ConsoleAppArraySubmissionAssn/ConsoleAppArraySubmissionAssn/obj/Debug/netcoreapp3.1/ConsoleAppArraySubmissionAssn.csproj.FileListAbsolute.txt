@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\bin\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConsoleAppArraySubmissionAssn\ConsoleAppArraySubmissionAssn\obj\Debug\netcoreapp3.1\ConsoleAppArraySubmissionAssn.genruntimeconfig.cache
