@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\bin\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\bin\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\bin\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\bin\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\bin\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\bin\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\obj\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\obj\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\obj\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\obj\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\obj\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\obj\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\SixPartsConsoleAppAssn\SixPartsConsoleAppAssn\obj\Debug\netcoreapp3.1\SixPartsConsoleAppAssn.genruntimeconfig.cache
