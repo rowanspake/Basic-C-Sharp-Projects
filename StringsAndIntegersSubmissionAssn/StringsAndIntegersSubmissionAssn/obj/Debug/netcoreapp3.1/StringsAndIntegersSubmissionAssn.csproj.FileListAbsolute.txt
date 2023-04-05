@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\bin\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.genruntimeconfig.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsAndIntegersSubmissionAssn\StringsAndIntegersSubmissionAssn\obj\Debug\netcoreapp3.1\StringsAndIntegersSubmissionAssn.csproj.AssemblyReference.cache
