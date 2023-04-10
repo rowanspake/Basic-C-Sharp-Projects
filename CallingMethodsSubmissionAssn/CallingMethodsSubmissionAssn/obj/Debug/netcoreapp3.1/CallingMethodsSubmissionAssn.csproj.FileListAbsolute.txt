@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\bin\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\bin\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\bin\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\bin\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\bin\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\bin\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\obj\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\obj\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\obj\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\obj\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\obj\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\obj\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethodsSubmissionAssn\CallingMethodsSubmissionAssn\obj\Debug\netcoreapp3.1\CallingMethodsSubmissionAssn.genruntimeconfig.cache
