@@ -11,6 +11,12 @@ namespace AbstractClassSubmissionAssn
 
             //Call SayName method on object
             employee1.SayName();
+
+            //Create object of type IQuittable
+            IQuittable quitobject = new Employee();
+
+            //Call Quit method on object
+            quitobject.Quit();
         }
     }
 }
