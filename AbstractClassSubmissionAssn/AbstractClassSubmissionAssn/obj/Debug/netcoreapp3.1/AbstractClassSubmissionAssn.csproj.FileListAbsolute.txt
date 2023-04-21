@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\bin\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClassSubmissionAssn\AbstractClassSubmissionAssn\obj\Debug\netcoreapp3.1\AbstractClassSubmissionAssn.genruntimeconfig.cache
