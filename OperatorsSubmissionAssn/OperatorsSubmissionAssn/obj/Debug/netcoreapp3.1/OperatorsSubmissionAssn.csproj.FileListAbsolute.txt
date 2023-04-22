@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\OperatorsSubmissionAssn\OperatorsSubmissionAssn\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssn.genruntimeconfig.cache
