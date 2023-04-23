@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\obj\Debug\netcoreapp3.1\ParametersAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\obj\Debug\netcoreapp3.1\ParametersAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\obj\Debug\netcoreapp3.1\ParametersAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\obj\Debug\netcoreapp3.1\ParametersAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\bin\Debug\netcoreapp3.1\ParametersAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\bin\Debug\netcoreapp3.1\ParametersAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\bin\Debug\netcoreapp3.1\ParametersAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\bin\Debug\netcoreapp3.1\ParametersAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\bin\Debug\netcoreapp3.1\ParametersAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\bin\Debug\netcoreapp3.1\ParametersAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\obj\Debug\netcoreapp3.1\ParametersAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\obj\Debug\netcoreapp3.1\ParametersAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParametersAssn\ParametersAssn\obj\Debug\netcoreapp3.1\ParametersAssn.genruntimeconfig.cache
