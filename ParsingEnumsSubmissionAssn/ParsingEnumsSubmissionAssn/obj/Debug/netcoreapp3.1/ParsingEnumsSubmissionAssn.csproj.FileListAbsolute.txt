@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\bin\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ParsingEnumsSubmissionAssn\ParsingEnumsSubmissionAssn\obj\Debug\netcoreapp3.1\ParsingEnumsSubmissionAssn.genruntimeconfig.cache
