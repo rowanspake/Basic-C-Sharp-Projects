@@ -1,0 +1,12 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\bin\Debug\netcoreapp3.1\StructAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\bin\Debug\netcoreapp3.1\StructAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\bin\Debug\netcoreapp3.1\StructAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\bin\Debug\netcoreapp3.1\StructAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\bin\Debug\netcoreapp3.1\StructAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\bin\Debug\netcoreapp3.1\StructAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\obj\Debug\netcoreapp3.1\StructAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\obj\Debug\netcoreapp3.1\StructAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\obj\Debug\netcoreapp3.1\StructAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\obj\Debug\netcoreapp3.1\StructAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\obj\Debug\netcoreapp3.1\StructAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StructAssn\StructAssn\obj\Debug\netcoreapp3.1\StructAssn.genruntimeconfig.cache
