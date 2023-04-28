@@ -1,0 +1,12 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\obj\Debug\netcoreapp3.1\LambdaSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\obj\Debug\netcoreapp3.1\LambdaSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\obj\Debug\netcoreapp3.1\LambdaSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\bin\Debug\netcoreapp3.1\LambdaSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\bin\Debug\netcoreapp3.1\LambdaSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\bin\Debug\netcoreapp3.1\LambdaSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\bin\Debug\netcoreapp3.1\LambdaSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\bin\Debug\netcoreapp3.1\LambdaSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\bin\Debug\netcoreapp3.1\LambdaSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\obj\Debug\netcoreapp3.1\LambdaSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\obj\Debug\netcoreapp3.1\LambdaSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambdaSubmissionAssn\LambdaSubmissionAssn\obj\Debug\netcoreapp3.1\LambdaSubmissionAssn.genruntimeconfig.cache
