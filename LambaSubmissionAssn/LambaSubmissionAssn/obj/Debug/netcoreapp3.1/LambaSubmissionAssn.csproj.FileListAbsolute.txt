@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\bin\Debug\netcoreapp3.1\LambaSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\bin\Debug\netcoreapp3.1\LambaSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\bin\Debug\netcoreapp3.1\LambaSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\bin\Debug\netcoreapp3.1\LambaSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\bin\Debug\netcoreapp3.1\LambaSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\bin\Debug\netcoreapp3.1\LambaSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\obj\Debug\netcoreapp3.1\LambaSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\obj\Debug\netcoreapp3.1\LambaSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\obj\Debug\netcoreapp3.1\LambaSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\obj\Debug\netcoreapp3.1\LambaSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\obj\Debug\netcoreapp3.1\LambaSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\obj\Debug\netcoreapp3.1\LambaSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LambaSubmissionAssn\LambaSubmissionAssn\obj\Debug\netcoreapp3.1\LambaSubmissionAssn.genruntimeconfig.cache
