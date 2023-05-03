@@ -1,0 +1,12 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\bin\Debug\netcoreapp3.1\DateTimeSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeSubmissionAssn\DateTimeSubmissionAssn\obj\Debug\netcoreapp3.1\DateTimeSubmissionAssn.genruntimeconfig.cache
