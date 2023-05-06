@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssn.deps.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssn.runtimeconfig.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssn.runtimeconfig.dev.json
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\bin\Debug\netcoreapp3.1\ConstructorSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssn.AssemblyInfoInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssn.AssemblyInfo.cs
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssn.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\ConstructorSubmissionAssn\ConstructorSubmissionAssn\obj\Debug\netcoreapp3.1\ConstructorSubmissionAssn.genruntimeconfig.cache
