@@ -99,7 +99,7 @@ namespace CarInsurance.Controllers
                 
                 if (insuree.DUI == true)
                 {
-                    insuree.Quote = insuree.Quote + (insuree.Quote / 4);
+                    insuree.Quote += (insuree.Quote / 4);
                 }
 
                 if (insuree.CoverageType == true)
