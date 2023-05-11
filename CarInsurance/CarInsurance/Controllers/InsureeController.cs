@@ -104,7 +104,7 @@ namespace CarInsurance.Controllers
 
                 if (insuree.CoverageType == true)
                 {
-                    insuree.Quote = insuree.Quote + (insuree.Quote / 2); 
+                    insuree.Quote += (insuree.Quote / 2); 
                 }
 
                 db.Insurees.Add(insuree);
