@@ -1,4 +1,13 @@
 # Basic C-Sharp Projects
- Basic C# Projects for The Tech Academy
+------------------
+A series of small projects created during The Tech Academy's C# & .NET course.
 
-A repository for C# projects completed as part of my studies with The Tech Academy
+## Main Projects
+* ASP.NET Projects
+   * NewsletterAppMVC
+      - An online newsletter sign-up site that employs the Model, View, Control design patters
+* CarInsurance
+    * An MVC web application designed to recieve online car insurance applications.  Users input their information, a personalized quote is generated, and the resulting data is stored in a database.
+* TwentyOne
+    * A console based Blackjack poker simulator.  Classes are defined individually for the dealer and player.  Various methods are implemented to fascillitate bettings, hittings, staying, and for keeping the player honest.
+ 
