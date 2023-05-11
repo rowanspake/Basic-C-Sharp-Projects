@@ -1,4 +1,10 @@
 # Basic C-Sharp Projects
- Basic C# Projects for The Tech Academy
+------------------
+A series of small projects created during The Tech Academy's C# & .NET course.
 
-A repository for C# projects completed as part of my studies with The Tech Academy
+## Main Projects
+* CarInsurance
+    * An MVC web application designed to recieve online car insurance applications
+* TwentyOne
+    * A console based Blackjack poker simulator
+ 
