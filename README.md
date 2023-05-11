@@ -3,6 +3,9 @@
 A series of small projects created during The Tech Academy's C# & .NET course.
 
 ## Main Projects
+* ASP.NET Projects
+   * NewsletterAppMVC
+      - An online newsletter sign-up site that employs the Model, View, Control design patters
 * CarInsurance
     * An MVC web application designed to recieve online car insurance applications.  Users input their information, a personalized quote is generated, and the resulting data is stored in a database.
 * TwentyOne
