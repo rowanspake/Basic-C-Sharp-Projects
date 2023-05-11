@@ -1,0 +1,13 @@
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\obj\Debug\FinalChallengeSubmissionAssn.csproj.AssemblyReference.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\obj\Debug\FinalChallengeSubmissionAssn.csproj.SuggestedBindingRedirects.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\obj\Debug\FinalChallengeSubmissionAssn.csproj.CoreCompileInputs.cache
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\bin\Debug\FinalChallengeSubmissionAssn.exe.config
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\bin\Debug\FinalChallengeSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\bin\Debug\FinalChallengeSubmissionAssn.pdb
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\bin\Debug\EntityFramework.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\bin\Debug\EntityFramework.xml
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\obj\Debug\FinalChallengeSubmissionAssn.csproj.CopyComplete
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\obj\Debug\FinalChallengeSubmissionAssn.exe
+C:\Users\15036\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\FinalChallengeSubmissionAssn\FinalChallengeSubmissionAssn\obj\Debug\FinalChallengeSubmissionAssn.pdb
