@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\15036\\source\\repos\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj": {}
+    "C:\\Users\\15036\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\15036\\source\\repos\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj": {
+    "C:\\Users\\15036\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\15036\\source\\repos\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj",
+        "projectUniqueName": "C:\\Users\\15036\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj",
         "projectName": "VS_Assignment",
-        "projectPath": "C:\\Users\\15036\\source\\repos\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj",
+        "projectPath": "C:\\Users\\15036\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj",
         "packagesPath": "C:\\Users\\15036\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\15036\\source\\repos\\VS_Assignment\\VS_Assignment\\obj\\",
+        "outputPath": "C:\\Users\\15036\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VS_Assignment\\VS_Assignment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,10 +49,29 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.32, 3.1.32]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -61,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

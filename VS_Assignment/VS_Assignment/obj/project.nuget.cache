@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vUhdhpHAYSi3NWn3wnW+KnicGYJsLom220mcFz8uYfOo29DJ6pB7dD2/aF+dem3+ryiZy9uDBCA9gTktf+huSw==",
+  "dgSpecHash": "4sC/OJ/hRrz55ri4go8OKOCl9FxlGcUgJNtr/xqCDSeiDFlFwHw3MhhjItXmM+KUAxSWw1LYv96w8RXJBbOzLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\15036\\source\\repos\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\15036\\Documents\\GitHub\\Basic-C-Sharp-Projects\\VS_Assignment\\VS_Assignment\\VS_Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\15036\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\15036\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\15036\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\15036\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
